@@ -1,0 +1,10 @@
+username:tekoya6207@econeom.com
+passwd:commonpassword
+https://www.youtube.com/watch?v=Ze4Ei5y4tiE
+https://www.campcodes.com/projects/php/1738/event-management-system-in-php/
+https://www.campcodes.com/projects/php/5483/online-teacher-record-management-system-using-php-mysqli/
+https://www.campcodes.com/projects/php/5514/complete-online-shopping-portal-using-php-and-mysql/
+https://www.campcodes.com/projects/5552/complete-online-hospital-management-system-using-php-and-mysql/
+https://www.campcodes.com/projects/php/4548/guest-house-online-reservation-system-in-php-mysql/
+https://www.campcodes.com/projects/php/4448/online-reservation-system-for-beach-resort-using-php-mysql/
+https://www.campcodes.com/projects/php/4045/school-management-system/
