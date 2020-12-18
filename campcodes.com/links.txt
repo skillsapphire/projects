@@ -8,3 +8,8 @@ https://www.campcodes.com/projects/5552/complete-online-hospital-management-syst
 https://www.campcodes.com/projects/php/4548/guest-house-online-reservation-system-in-php-mysql/
 https://www.campcodes.com/projects/php/4448/online-reservation-system-for-beach-resort-using-php-mysql/
 https://www.campcodes.com/projects/php/4045/school-management-system/
+https://www.campcodes.com/projects/1554/online-examination-system-in-php-mysqli/
+https://www.campcodes.com/projects/php/249/farm-management-system-in-php-mysql/
+https://www.campcodes.com/projects/php/242/online-payroll-system-with-attendance-monitoring-using-php-mysqli/
+https://www.campcodes.com/projects/php/197/onlineelearningsystem/
+https://www.campcodes.com/projects/126/ecommerce/
